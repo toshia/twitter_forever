@@ -1,0 +1,9 @@
+---
+slug: twitter_forever
+depends:
+  mikutter: 3.5.0
+  plugin: [user_detail_view]
+version: '1.0'
+author: toshi_a
+name: Twitterアカウント死活監視くん
+description: "いつ死ぬかわからんTwitterアカウントを自動で定期的に監視し、凍結されたら通知します"
